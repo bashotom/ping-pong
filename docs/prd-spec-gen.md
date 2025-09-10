@@ -66,8 +66,6 @@ Die Ping Pong Web-App ist ein browserbasiertes Spiel, das in zwei modernen Front
 - Highscore-Liste
 - Einstellungen für Geschwindigkeit und Schwierigkeitsgrad
 
-Letzte Aktualisierung: 10.09.2025
-
 ---
 
 Letzte Aktualisierung: 10.09.2025
