@@ -26,7 +26,6 @@ const App: React.FC = () => {
   const [ball, setBall] = useState<Ball>({ x: CANVAS_WIDTH / 2, y: CANVAS_HEIGHT / 2, vx: BALL_SPEED, vy: BALL_SPEED });
   const [score, setScore] = useState({ player: 0, computer: 0 });
   const [isRunning, setIsRunning] = useState(false);
-  const intervalRef = useRef<number | null>(null);
 
   // Mouse movement for player paddle
   const onMouseMove = (e: React.MouseEvent<SVGSVGElement, MouseEvent>) => {
